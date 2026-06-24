@@ -1,38 +1,69 @@
-# Sales & Customers Data Analysis Dashboard
+# Sales & Customer Data Analysis Using SQL & Power BI
 
 ## Project Overview
 
-This Power BI dashboard analyzes sales, customers, products, and revenue trends using interactive visualizations and filters.
-
-## Features
-
-* Total Revenue KPI
-* Total Orders KPI
-* Total Products KPI
-* Total Customers KPI
-* Revenue by Product
-* Revenue by Category
-* Customer Revenue Analysis
-* Revenue Trend Over Time
-* City Filter
-* Category Filter
-* Date Filter
+This project focuses on analyzing sales and customer data using PostgreSQL and Power BI. The objective was to transform raw business data into meaningful insights that support data-driven decision-making.
 
 ## Tools Used
 
+* SQL
+* PostgreSQL
 * Power BI
-* DAX Measures
-* Data Modeling
-* Interactive Slicers
 
-## Insights
+## Database Design
 
-* Electronics generated the highest revenue.
-* Laptop and Phone were top-selling products.
-* Revenue trends can be analyzed by date.
-* Customer spending patterns are visualized using customer revenue charts.
+Designed and created a relational database containing:
 
-## Author
+* Customers Table
+* Products Table
+* Orders Table
 
-SYED AKHIB L
-Aspiring Data Analyst
+The database structure was designed to maintain relationships between customers, products, and orders for efficient analysis.
+
+## SQL Analysis
+
+Wrote 23+ SQL queries using:
+
+* JOINs
+* GROUP BY
+* ORDER BY
+* Aggregate Functions (SUM, COUNT, AVG, MAX, MIN)
+* Subqueries
+
+## Business Questions Answered
+
+* Which products generated the highest sales?
+* Who are the highest-value customers?
+* What are the monthly sales trends?
+* Which products perform best over time?
+* How does customer purchasing behavior impact revenue?
+
+## Key Insights
+
+* Identified top-selling products.
+* Identified highest-value customers.
+* Analyzed monthly sales trends.
+* Generated insights to support business decisions.
+
+## Power BI Dashboard
+
+Developed an interactive Power BI dashboard featuring:
+
+* Total Sales KPI
+* Total Orders KPI
+* Customer Metrics
+* Product Performance Analysis
+* Monthly Sales Trend Charts
+* Interactive Filters and Slicers
+
+## Project Files
+
+* SQL Queries
+* Database Schema
+* Sample Dataset
+* Power BI Dashboard (.pbix)
+* Dashboard Screenshots
+
+## Outcome
+
+This project demonstrates practical skills in SQL querying, database design, data cleaning, data analysis, data visualization, and dashboard creation using Power BI.
