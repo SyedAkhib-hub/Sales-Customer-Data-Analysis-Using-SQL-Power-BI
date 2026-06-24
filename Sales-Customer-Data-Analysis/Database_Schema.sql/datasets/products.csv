@@ -1,0 +1,11 @@
+"product_id","product_name","category","price"
+101,"Laptop","Electronics",55000.00
+102,"Phone","Electronics",25000.00
+103,"Mouse","Accessories",500.00
+104,"Keyboard","Accessories",1500.00
+105,"Monitor","Electronics",12000.00
+106,"Printer","Office",8000.00
+107,"Headphones","Accessories",3000.00
+108,"Webcam","Accessories",2500.00
+109,"Tablet","Electronics",18000.00
+110,"Speaker","Accessories",4000.00
